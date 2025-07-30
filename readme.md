@@ -1,4 +1,4 @@
-# 🧠 `fastapi_rbac` - Role-Based Access Control (RBAC) dengan FastAPI + JWT + MariaDB
+# `Pintö` - Role-Based Access Control (RBAC) dengan FastAPI + JWT + MariaDB
 
 **`Pintö`** *(dalam bahasa Aceh, pintu)* adalah API otentikasi dan manajemen user berbasis JWT + Role + Permission.  
 Dirancang menggunakan FastAPI dan SQLAlchemy, cocok untuk proyek modern yang membutuhkan kontrol akses tingkat lanjut.
@@ -105,6 +105,12 @@ uvicorn app.main:app --reload
 ```
 
 ---
+
+## Docs API via browser
+
+```http
+http://127.0.0.1:8000/docs
+```
 
 ## 🧪 Testing via HTTP Client
 
