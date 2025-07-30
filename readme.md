@@ -1,0 +1,1 @@
+Dalam bahasa Aceh, kata untuk "pintu" adalah pintö
