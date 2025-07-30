@@ -1,6 +1,6 @@
-# `Pintö` - Role-Based Access Control (RBAC) dengan FastAPI + JWT + MariaDB
+# `Pintö` Role-Based Access Control (RBAC) dengan FastAPI + JWT + MariaDB
 
-**`Pintö`** *(dalam bahasa Aceh, pintu)* adalah API otentikasi dan manajemen user berbasis JWT + Role + Permission.  
+**`Pintö`** *(dalam bahasa Aceh, pintu)* adalah API otentikasi dan manajemen user berbasis Role-Based Access Control (RBAC) menggunakan FastApi.  
 
 ---
 
@@ -10,7 +10,6 @@
 - ✅ SQLAlchemy ORM
 - ✅ JWT
 - ✅ MariaDB
-- ✅ Modular Router & Dependency Injection
 
 ---
 
