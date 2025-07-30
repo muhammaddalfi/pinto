@@ -17,7 +17,7 @@
 ## 📁 Struktur Project
 
 ```
-fastapi_rbac/
+pinto/
 ├── app/
 │   ├── __init__.py
 │   ├── main.py                  # Entry point FastAPI
