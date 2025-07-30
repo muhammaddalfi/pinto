@@ -105,11 +105,13 @@ uvicorn app.main:app --reload
 
 ---
 
-## Docs API via browser
+---
 
-```http
-http://127.0.0.1:8000/docs
-```
+## 📘 Docs API via Browser
+
+[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+---
 
 ## 🧪 Testing via HTTP Client
 
